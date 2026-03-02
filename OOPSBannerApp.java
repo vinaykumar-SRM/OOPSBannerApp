@@ -1,6 +1,6 @@
 /**
  * OOPSBannerApp - UC3: String.join()
- * @author NithishKumar
+ * @author 
  * @version 3.0
  */
 public class OOPSBannerApp {
