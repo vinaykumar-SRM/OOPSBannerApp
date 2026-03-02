@@ -1,6 +1,6 @@
 /**
  * OOPSBannerApp - UC5: Inline Array Init
- * @author NithishKumar
+ * @author
  * @version 5.0
  */
 public class OOPSBannerApp {
