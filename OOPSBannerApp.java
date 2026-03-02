@@ -1,6 +1,6 @@
 /**
  * OOPSBannerApp - UC4: Array & Loop
- * @author NithishKumar
+ * @author 
  * @version 4.0
  */
 public class OOPSBannerApp {
