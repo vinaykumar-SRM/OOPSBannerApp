@@ -1,8 +1,4 @@
-/**
- * OOPSBannerApp - UC6: Static Methods
- * @author NithishKumar
- * @version 6.0
- */
+
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
